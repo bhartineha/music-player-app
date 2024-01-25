@@ -81,7 +81,7 @@ export const Container = styled.div<{isFull: boolean}>`
         align-items: center;
         width: 100%;
         margin: auto;
-        padding-top: 30px;
+        padding-top: 10px;
         button {
             border: none;
             outline: none;

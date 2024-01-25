@@ -63,7 +63,7 @@ export const Container = styled.div`
           font-size: 16px;
         }
         .title {
-          margin: 10px 120px;
+          margin: 10px 10px;
           text-align: center; 
       } 
     }
